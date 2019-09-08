@@ -3,18 +3,19 @@
 #else
 #define CHEMICAL_ELEMENT_H
 
+#include <string>
+
+using atomic_number_t = size_t;
+using symbol_t = std::string;
+using atomic_mass_t = double;
+using state_t = std::string;
+using stability_t = std::string;
+using name_t = std::string;
+using group_t = std::string;
+using electron_config_t = std::string;
+
 class chemical_element
 {
-    public:
-        using atomic_number_t = size_t;
-        using symbol_t = std::string;
-        using atomic_mass_t = double;
-        using state_t = std::string;
-        using stability_t = std::string;
-        using name_t = std::string;
-        using group_t = std::string;
-        using electron_config_t = std::string;
-
     public:
         chemical_element() { }
         virtual ~chemical_element() { }
