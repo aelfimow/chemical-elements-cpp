@@ -17,7 +17,7 @@ name_t helium::name() const
     return "helium";
 }
 
-atomic_mass_t helium::atomic_mass() const
+atomic_mass_t helium::atomic_weight() const
 {
     return 4.002602;
 }

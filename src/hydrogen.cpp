@@ -17,7 +17,7 @@ name_t hydrogen::name() const
     return "hydrogen";
 }
 
-atomic_mass_t hydrogen::atomic_mass() const
+atomic_mass_t hydrogen::atomic_weight() const
 {
     return 1.008;
 }

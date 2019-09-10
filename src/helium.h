@@ -13,7 +13,7 @@ class helium: public chemical_element
         atomic_number_t atomic_number() const;
         symbol_t symbol() const;
         name_t name() const;
-        atomic_mass_t atomic_mass() const;
+        atomic_mass_t atomic_weight() const;
         state_t state() const;
         stability_t stability() const;
         group_t group() const;
