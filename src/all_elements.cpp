@@ -8,4 +8,5 @@ lithium Li;
 sodium Na;
 potassium K;
 rubidium Rb;
-potassium Cs;
+caesium Cs;
+francium Fr;
