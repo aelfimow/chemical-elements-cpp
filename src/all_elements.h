@@ -6,8 +6,12 @@
 #include "chemical_element.h"
 #include "hydrogen.h"
 #include "helium.h"
+#include "lithium.h"
 
 extern hydrogen H;
+
 extern helium He;
+
+extern lithium Li;
 
 #endif
