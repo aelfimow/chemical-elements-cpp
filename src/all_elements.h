@@ -3,6 +3,7 @@
 #else
 #define ALL_ELEMENTS_H
 
+#include "chemical_element.h"
 #include "hydrogen.h"
 #include "helium.h"
 
