@@ -5,3 +5,4 @@ hydrogen H;
 helium He;
 
 lithium Li;
+sodium Na;

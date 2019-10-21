@@ -1,14 +1,14 @@
-#ifdef LITHIUM_H
+#ifdef SODIUM_H
 #error Already included
 #else
-#define LITHIUM_H
+#define SODIUM_H
 
 
-class lithium: public chemical_element
+class sodium: public chemical_element
 {
     public:
-        lithium() { }
-        ~lithium() { }
+        sodium() { }
+        ~sodium() { }
 
         atomic_number_t atomic_number() const override
         {
@@ -17,17 +17,17 @@ class lithium: public chemical_element
 
         symbol_t symbol() const override
         {
-            return "Li";
+            return "Na";
         }
 
         name_t name() const override
         {
-            return "lithium";
+            return "sodium";
         }
 
         atomic_mass_t atomic_weight() const override
         {
-            return 6.941;
+            return 22.98976928;
         }
 
         state_t state() const override
@@ -47,7 +47,7 @@ class lithium: public chemical_element
 
         electron_config_t electron_config() const override
         {
-            return "[He]2s^1";
+            return "[Ne]3s^1";
         }
 };
 

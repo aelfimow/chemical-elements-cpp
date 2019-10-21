@@ -7,11 +7,13 @@
 #include "hydrogen.h"
 #include "helium.h"
 #include "lithium.h"
+#include "sodium.h"
 
 extern hydrogen H;
 
 extern helium He;
 
 extern lithium Li;
+extern sodium Na;
 
 #endif
