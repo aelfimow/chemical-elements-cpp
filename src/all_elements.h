@@ -9,6 +9,8 @@
 #include "lithium.h"
 #include "sodium.h"
 #include "potassium.h"
+#include "rubidium.h"
+#include "caesium.h"
 
 extern hydrogen H;
 
@@ -17,5 +19,7 @@ extern helium He;
 extern lithium Li;
 extern sodium Na;
 extern potassium K;
+extern rubidium Rb;
+extern potassium Cs;
 
 #endif
