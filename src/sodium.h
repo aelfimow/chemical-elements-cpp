@@ -12,7 +12,7 @@ class sodium: public chemical_element
 
         atomic_number_t atomic_number() const override
         {
-            return 1;
+            return 11;
         }
 
         symbol_t symbol() const override

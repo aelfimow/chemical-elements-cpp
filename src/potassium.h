@@ -1,33 +1,33 @@
-#ifdef LITHIUM_H
+#ifdef POTASSIUM_H
 #error Already included
 #else
-#define LITHIUM_H
+#define POTASSIUM_H
 
 
-class lithium: public chemical_element
+class potassium: public chemical_element
 {
     public:
-        lithium() { }
-        ~lithium() { }
+        potassium() { }
+        ~potassium() { }
 
         atomic_number_t atomic_number() const override
         {
-            return 3;
+            return 19;
         }
 
         symbol_t symbol() const override
         {
-            return "Li";
+            return "K";
         }
 
         name_t name() const override
         {
-            return "lithium";
+            return "potassium";
         }
 
         atomic_mass_t atomic_weight() const override
         {
-            return 6.941;
+            return 39.0983;
         }
 
         state_t state() const override
@@ -47,7 +47,7 @@ class lithium: public chemical_element
 
         electron_config_t electron_config() const override
         {
-            return "[He]2s^1";
+            return "[Ar]4s^1";
         }
 };
 
