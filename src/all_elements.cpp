@@ -13,3 +13,4 @@ francium Fr;
 
 beryllium Be;
 magnesium Mg;
+calcium Ca;
