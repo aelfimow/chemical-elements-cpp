@@ -12,3 +12,4 @@ caesium Cs;
 francium Fr;
 
 beryllium Be;
+magnesium Mg;
