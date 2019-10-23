@@ -1,7 +1,7 @@
-#ifdef STRNTIUM_H
+#ifdef STRONTIUM_H
 #error Already included
 #else
-#define STRNTIUM_H
+#define STRONTIUM_H
 
 
 class strontium: public chemical_element
