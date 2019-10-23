@@ -18,6 +18,7 @@
 #include "calcium.h"
 #include "strontium.h"
 #include "barium.h"
+#include "radium.h"
 
 extern hydrogen H;
 
@@ -35,5 +36,6 @@ extern magnesium Mg;
 extern calcium Ca;
 extern strontium Sr;
 extern barium Ba;
+extern radium Ra;
 
 #endif
