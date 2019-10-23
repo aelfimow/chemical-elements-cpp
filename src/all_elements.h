@@ -15,7 +15,9 @@
 
 #include "beryllium.h"
 #include "magnesium.h"
+#include "calcium.h"
 #include "strontium.h"
+#include "barium.h"
 
 extern hydrogen H;
 
@@ -32,5 +34,6 @@ extern beryllium Be;
 extern magnesium Mg;
 extern calcium Ca;
 extern strontium Sr;
+extern barium Ba;
 
 #endif
