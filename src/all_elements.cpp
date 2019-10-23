@@ -10,3 +10,5 @@ potassium K;
 rubidium Rb;
 caesium Cs;
 francium Fr;
+
+beryllium Be;

@@ -13,6 +13,8 @@
 #include "caesium.h"
 #include "francium.h"
 
+#include "beryllium.h"
+
 extern hydrogen H;
 
 extern helium He;
@@ -23,5 +25,7 @@ extern potassium K;
 extern rubidium Rb;
 extern caesium Cs;
 extern francium Fr;
+
+extern beryllium Be;
 
 #endif
