@@ -21,6 +21,7 @@
 #include "radium.h"
 
 #include "scandium.h"
+#include "yttrium.h"
 
 extern hydrogen H;
 
@@ -41,5 +42,6 @@ extern barium Ba;
 extern radium Ra;
 
 extern scandium Sc;
+extern yttrium Y;
 
 #endif

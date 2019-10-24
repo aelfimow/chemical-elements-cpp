@@ -19,3 +19,4 @@ barium Ba;
 radium Ra;
 
 scandium Sc;
+yttrium Y;
