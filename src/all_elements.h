@@ -22,6 +22,7 @@
 
 #include "scandium.h"
 #include "yttrium.h"
+#include "lanthanum.h"
 
 extern hydrogen H;
 
@@ -43,5 +44,6 @@ extern radium Ra;
 
 extern scandium Sc;
 extern yttrium Y;
+extern lanthanum La;
 
 #endif
