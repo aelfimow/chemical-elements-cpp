@@ -21,3 +21,4 @@ radium Ra;
 scandium Sc;
 yttrium Y;
 lanthanum La;
+actinium Ac;
