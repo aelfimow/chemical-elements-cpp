@@ -17,3 +17,5 @@ calcium Ca;
 strontium Sr;
 barium Ba;
 radium Ra;
+
+scandium Sc;
