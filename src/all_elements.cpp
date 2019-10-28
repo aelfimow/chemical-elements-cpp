@@ -22,3 +22,7 @@ scandium Sc;
 yttrium Y;
 lanthanum La;
 actinium Ac;
+
+cerium Ce;
+praseodymium Pr;
+neodymium Nd;

@@ -25,6 +25,10 @@
 #include "lanthanum.h"
 #include "actinium.h"
 
+#include "cerium.h"
+#include "praseodymium.h"
+#include "neodymium.h"
+
 extern hydrogen H;
 
 extern helium He;
@@ -47,5 +51,9 @@ extern scandium Sc;
 extern yttrium Y;
 extern lanthanum La;
 extern actinium Ac;
+
+extern cerium Ce;
+extern praseodymium Pr;
+extern neodymium Nd;
 
 #endif
