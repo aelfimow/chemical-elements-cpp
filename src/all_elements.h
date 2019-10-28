@@ -28,6 +28,7 @@
 #include "cerium.h"
 #include "praseodymium.h"
 #include "neodymium.h"
+#include "promethium.h"
 
 extern hydrogen H;
 
@@ -55,5 +56,6 @@ extern actinium Ac;
 extern cerium Ce;
 extern praseodymium Pr;
 extern neodymium Nd;
+extern promethium Pm;
 
 #endif

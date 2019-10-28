@@ -26,3 +26,4 @@ actinium Ac;
 cerium Ce;
 praseodymium Pr;
 neodymium Nd;
+promethium Pm;
