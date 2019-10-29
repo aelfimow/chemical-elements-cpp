@@ -28,3 +28,4 @@ praseodymium Pr;
 neodymium Nd;
 promethium Pm;
 samarium Sm;
+europium Eu;
