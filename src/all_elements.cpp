@@ -30,3 +30,5 @@ promethium Pm;
 samarium Sm;
 europium Eu;
 gadolinium Gd;
+terbium Tb;
+dysprosium Dy;

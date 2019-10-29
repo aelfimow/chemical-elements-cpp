@@ -32,6 +32,8 @@
 #include "samarium.h"
 #include "europium.h"
 #include "gadolinium.h"
+#include "terbium.h"
+#include "dysprosium.h"
 
 extern hydrogen H;
 
@@ -63,5 +65,7 @@ extern promethium Pm;
 extern samarium Sm;
 extern europium Eu;
 extern gadolinium Gd;
+extern terbium Tb;
+extern dysprosium Dy;
 
 #endif
