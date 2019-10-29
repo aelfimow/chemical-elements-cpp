@@ -32,3 +32,4 @@ europium Eu;
 gadolinium Gd;
 terbium Tb;
 dysprosium Dy;
+holmium Ho;
