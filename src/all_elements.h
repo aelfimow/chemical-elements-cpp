@@ -29,6 +29,7 @@
 #include "praseodymium.h"
 #include "neodymium.h"
 #include "promethium.h"
+#include "samarium.h"
 
 extern hydrogen H;
 
@@ -57,5 +58,6 @@ extern cerium Ce;
 extern praseodymium Pr;
 extern neodymium Nd;
 extern promethium Pm;
+extern samarium Sm;
 
 #endif

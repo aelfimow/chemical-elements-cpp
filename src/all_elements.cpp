@@ -27,3 +27,4 @@ cerium Ce;
 praseodymium Pr;
 neodymium Nd;
 promethium Pm;
+samarium Sm;
