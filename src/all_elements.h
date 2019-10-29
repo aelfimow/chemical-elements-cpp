@@ -31,6 +31,7 @@
 #include "promethium.h"
 #include "samarium.h"
 #include "europium.h"
+#include "gadolinium.h"
 
 extern hydrogen H;
 
@@ -61,5 +62,6 @@ extern neodymium Nd;
 extern promethium Pm;
 extern samarium Sm;
 extern europium Eu;
+extern gadolinium Gd;
 
 #endif

@@ -29,3 +29,4 @@ neodymium Nd;
 promethium Pm;
 samarium Sm;
 europium Eu;
+gadolinium Gd;
