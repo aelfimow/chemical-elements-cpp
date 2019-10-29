@@ -35,6 +35,7 @@
 #include "terbium.h"
 #include "dysprosium.h"
 #include "holmium.h"
+#include "erbium.h"
 
 extern hydrogen H;
 
@@ -69,5 +70,6 @@ extern gadolinium Gd;
 extern terbium Tb;
 extern dysprosium Dy;
 extern holmium Ho;
+extern erbium Er;
 
 #endif

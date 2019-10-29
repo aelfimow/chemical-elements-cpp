@@ -33,3 +33,4 @@ gadolinium Gd;
 terbium Tb;
 dysprosium Dy;
 holmium Ho;
+erbium Er;
