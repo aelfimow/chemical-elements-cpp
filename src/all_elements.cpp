@@ -35,3 +35,4 @@ dysprosium Dy;
 holmium Ho;
 erbium Er;
 thulium Tm;
+ytterbium Yb;
