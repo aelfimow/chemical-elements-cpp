@@ -47,7 +47,7 @@ class actinium: public chemical_element
 
         electron_config_t electron_config() const override
         {
-            return "[Rn]dd^1 7s^2";
+            return "[Rn] 6d^1 7s^2";
         }
 };
 
