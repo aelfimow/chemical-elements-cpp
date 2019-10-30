@@ -37,3 +37,5 @@ erbium Er;
 thulium Tm;
 ytterbium Yb;
 lutetium Lu;
+
+thorium Th;
