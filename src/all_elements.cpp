@@ -39,3 +39,4 @@ ytterbium Yb;
 lutetium Lu;
 
 thorium Th;
+protactinium Pa;
