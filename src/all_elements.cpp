@@ -44,3 +44,4 @@ uranium U;
 neptunium Np;
 plutonium Pu;
 americium Am;
+curium Cm;
