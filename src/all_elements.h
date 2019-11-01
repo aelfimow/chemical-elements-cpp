@@ -42,6 +42,7 @@
 #include "thorium.h"
 #include "protactinium.h"
 #include "uranium.h"
+#include "neptunium.h"
 
 extern hydrogen H;
 
@@ -84,5 +85,6 @@ extern lutetium Lu;
 extern thorium Th;
 extern protactinium Pa;
 extern uranium U;
+extern neptunium Np;
 
 #endif
