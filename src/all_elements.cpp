@@ -42,3 +42,4 @@ thorium Th;
 protactinium Pa;
 uranium U;
 neptunium Np;
+plutonium Pu;
