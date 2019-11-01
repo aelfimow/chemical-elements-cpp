@@ -45,3 +45,4 @@ neptunium Np;
 plutonium Pu;
 americium Am;
 curium Cm;
+berkelium Bk;
