@@ -50,3 +50,4 @@ californium Cf;
 einsteinium Es;
 fermium Fm;
 mendelevium Md;
+nobelium No;
