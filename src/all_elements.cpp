@@ -51,3 +51,4 @@ einsteinium Es;
 fermium Fm;
 mendelevium Md;
 nobelium No;
+lawrencium Lr;
