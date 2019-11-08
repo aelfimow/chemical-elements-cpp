@@ -49,6 +49,7 @@
 #include "berkelium.h"
 #include "californium.h"
 #include "einsteinium.h"
+#include "fermium.h"
 
 extern hydrogen H;
 
@@ -98,5 +99,6 @@ extern curium Cm;
 extern berkelium Bk;
 extern californium Cf;
 extern einsteinium Es;
+extern fermium Fm;
 
 #endif

@@ -48,3 +48,4 @@ curium Cm;
 berkelium Bk;
 californium Cf;
 einsteinium Es;
+fermium Fm;
