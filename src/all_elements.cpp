@@ -47,3 +47,4 @@ americium Am;
 curium Cm;
 berkelium Bk;
 californium Cf;
+einsteinium Es;
