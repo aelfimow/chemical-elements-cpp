@@ -46,3 +46,4 @@ plutonium Pu;
 americium Am;
 curium Cm;
 berkelium Bk;
+californium Cf;
