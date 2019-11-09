@@ -52,3 +52,5 @@ fermium Fm;
 mendelevium Md;
 nobelium No;
 lawrencium Lr;
+
+titanium Ti;

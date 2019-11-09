@@ -53,6 +53,7 @@
 #include "mendelevium.h"
 #include "nobelium.h"
 #include "lawrencium.h"
+#include "titanium.h"
 
 extern hydrogen H;
 
@@ -106,5 +107,7 @@ extern fermium Fm;
 extern mendelevium Md;
 extern nobelium No;
 extern lawrencium Lr;
+
+extern titanium Ti;
 
 #endif
