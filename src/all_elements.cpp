@@ -54,3 +54,5 @@ nobelium No;
 lawrencium Lr;
 
 titanium Ti;
+zirkonium Zr;
+hafnium Hf;
