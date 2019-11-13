@@ -57,6 +57,7 @@
 #include "zirkonium.h"
 #include "hafnium.h"
 #include "rutherfordium.h"
+#include "vanadium.h"
 
 extern hydrogen H;
 
@@ -115,5 +116,7 @@ extern titanium Ti;
 extern zirkonium Zr;
 extern hafnium Hf;
 extern rutherfordium Rf;
+
+extern vanadium V;
 
 #endif

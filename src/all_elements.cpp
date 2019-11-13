@@ -57,3 +57,5 @@ titanium Ti;
 zirkonium Zr;
 hafnium Hf;
 rutherfordium Rf;
+
+vanadium V;
