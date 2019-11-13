@@ -60,3 +60,5 @@ rutherfordium Rf;
 
 vanadium V;
 niobium Nb;
+tantalum Ta;
+dubnium Db;
