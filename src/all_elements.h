@@ -58,6 +58,7 @@
 #include "hafnium.h"
 #include "rutherfordium.h"
 #include "vanadium.h"
+#include "niobium.h"
 
 extern hydrogen H;
 
@@ -118,5 +119,6 @@ extern hafnium Hf;
 extern rutherfordium Rf;
 
 extern vanadium V;
+extern niobium Nb;
 
 #endif

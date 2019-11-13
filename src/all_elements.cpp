@@ -59,3 +59,4 @@ hafnium Hf;
 rutherfordium Rf;
 
 vanadium V;
+niobium Nb;
