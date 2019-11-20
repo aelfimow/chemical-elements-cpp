@@ -65,3 +65,4 @@ dubnium Db;
 
 chromium Cr;
 molybdenum Mo;
+tungsten W;

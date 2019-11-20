@@ -63,6 +63,7 @@
 #include "dubnium.h"
 #include "chromium.h"
 #include "molybdenum.h"
+#include "tungsten.h"
 
 extern hydrogen H;
 
@@ -129,5 +130,6 @@ extern dubnium Db;
 
 extern chromium Cr;
 extern molybdenum Mo;
+extern tungsten W;
 
 #endif
