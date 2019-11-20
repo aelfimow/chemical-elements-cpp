@@ -62,3 +62,5 @@ vanadium V;
 niobium Nb;
 tantalum Ta;
 dubnium Db;
+
+chromium Cr;
