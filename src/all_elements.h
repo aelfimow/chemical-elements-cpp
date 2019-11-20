@@ -64,6 +64,7 @@
 #include "chromium.h"
 #include "molybdenum.h"
 #include "tungsten.h"
+#include "seaborgium.h"
 
 extern hydrogen H;
 
@@ -131,5 +132,6 @@ extern dubnium Db;
 extern chromium Cr;
 extern molybdenum Mo;
 extern tungsten W;
+extern seaborgium Sg;
 
 #endif
