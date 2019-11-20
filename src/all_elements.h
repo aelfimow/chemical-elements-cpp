@@ -62,6 +62,7 @@
 #include "tantalum.h"
 #include "dubnium.h"
 #include "chromium.h"
+#include "molybdenum.h"
 
 extern hydrogen H;
 
@@ -127,5 +128,6 @@ extern tantalum Ta;
 extern dubnium Db;
 
 extern chromium Cr;
+extern molybdenum Mo;
 
 #endif

@@ -64,3 +64,4 @@ tantalum Ta;
 dubnium Db;
 
 chromium Cr;
+molybdenum Mo;
