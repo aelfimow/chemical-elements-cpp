@@ -71,3 +71,4 @@ seaborgium Sg;
 manganese Mn;
 technetium Tc;
 rhenium Re;
+bohrium Bh;
