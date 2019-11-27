@@ -67,3 +67,5 @@ chromium Cr;
 molybdenum Mo;
 tungsten W;
 seaborgium Sg;
+
+manganese Mn;
