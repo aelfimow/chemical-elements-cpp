@@ -66,6 +66,7 @@
 #include "tungsten.h"
 #include "seaborgium.h"
 #include "manganese.h"
+#include "technetium.h"
 
 extern hydrogen H;
 
@@ -136,5 +137,6 @@ extern tungsten W;
 extern seaborgium Sg;
 
 extern manganese Mn;
+extern technetium Tc;
 
 #endif

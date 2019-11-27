@@ -69,3 +69,4 @@ tungsten W;
 seaborgium Sg;
 
 manganese Mn;
+technetium Tc;
