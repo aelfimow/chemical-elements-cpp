@@ -67,6 +67,7 @@
 #include "seaborgium.h"
 #include "manganese.h"
 #include "technetium.h"
+#include "rhenium.h"
 
 extern hydrogen H;
 
@@ -138,5 +139,6 @@ extern seaborgium Sg;
 
 extern manganese Mn;
 extern technetium Tc;
+extern rhenium Re;
 
 #endif
