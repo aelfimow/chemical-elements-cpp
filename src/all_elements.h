@@ -72,6 +72,7 @@
 #include "iron.h"
 #include "ruthenium.h"
 #include "osmium.h"
+#include "hassium.h"
 
 extern hydrogen H;
 
@@ -149,5 +150,6 @@ extern bohrium Bh;
 extern iron Fe;
 extern ruthenium Ru;
 extern osmium Os;
+extern hassium Hs;
 
 #endif
