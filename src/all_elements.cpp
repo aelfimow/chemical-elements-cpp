@@ -75,3 +75,4 @@ bohrium Bh;
 
 iron Fe;
 ruthenium Ru;
+osmium Os;
