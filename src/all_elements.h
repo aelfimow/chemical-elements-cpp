@@ -75,6 +75,7 @@
 #include "roentgenium.h"
 #include "copernicium.h"
 #include "nihonium.h"
+#include "flerovium.h"
 
 extern hydrogen H;
 
@@ -159,5 +160,6 @@ extern darmstadtium Ds;
 extern roentgenium Rg;
 extern copernicium Cn;
 extern nihonium Nh;
+extern flerovium Fl;
 
 #endif
