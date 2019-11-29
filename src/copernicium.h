@@ -32,12 +32,12 @@ class copernicium: public chemical_element
 
         state_t state() const override
         {
-            return "unknown";
+            return "Post-transition metal";
         }
 
         stability_t stability() const override
         {
-            return "Post-transition metal";
+            return "radioactive";
         }
 
         group_t group() const override
