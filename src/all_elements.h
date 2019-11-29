@@ -12,19 +12,16 @@
 #include "rubidium.h"
 #include "caesium.h"
 #include "francium.h"
-
 #include "beryllium.h"
 #include "magnesium.h"
 #include "calcium.h"
 #include "strontium.h"
 #include "barium.h"
 #include "radium.h"
-
 #include "scandium.h"
 #include "yttrium.h"
 #include "lanthanum.h"
 #include "actinium.h"
-
 #include "cerium.h"
 #include "praseodymium.h"
 #include "neodymium.h"
@@ -73,6 +70,7 @@
 #include "ruthenium.h"
 #include "osmium.h"
 #include "hassium.h"
+#include "meitnerium.h"
 
 extern hydrogen H;
 
@@ -151,5 +149,7 @@ extern iron Fe;
 extern ruthenium Ru;
 extern osmium Os;
 extern hassium Hs;
+
+extern meitnerium Mt;
 
 #endif
