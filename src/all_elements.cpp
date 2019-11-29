@@ -82,3 +82,4 @@ meitnerium Mt;
 darmstadtium Ds;
 roentgenium Rg;
 copernicium Cn;
+nihonium Nh;
