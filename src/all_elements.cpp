@@ -79,3 +79,4 @@ osmium Os;
 hassium Hs;
 
 meitnerium Mt;
+darmstadtium Ds;

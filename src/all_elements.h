@@ -71,6 +71,7 @@
 #include "osmium.h"
 #include "hassium.h"
 #include "meitnerium.h"
+#include "darmstadtium.h"
 
 extern hydrogen H;
 
@@ -151,5 +152,6 @@ extern osmium Os;
 extern hassium Hs;
 
 extern meitnerium Mt;
+extern darmstadtium Ds;
 
 #endif
