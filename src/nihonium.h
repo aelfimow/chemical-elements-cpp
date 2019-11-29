@@ -47,7 +47,7 @@ class nihonium: public chemical_element
 
         electron_config_t electron_config() const override
         {
-            return "[Rn] 5f^14 6d^10 7s^2 7p1";
+            return "[Rn] 5f^14 6d^10 7s^2 7p^1";
         }
 };
 
