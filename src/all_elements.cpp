@@ -87,3 +87,4 @@ flerovium Fl;
 moscovium Mc;
 livermorium Lv;
 tennessine Ts;
+oganesson Og;
