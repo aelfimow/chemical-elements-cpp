@@ -84,3 +84,4 @@ roentgenium Rg;
 copernicium Cn;
 nihonium Nh;
 flerovium Fl;
+moscovium Mc;
