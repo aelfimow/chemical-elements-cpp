@@ -78,6 +78,7 @@
 #include "flerovium.h"
 #include "moscovium.h"
 #include "livermorium.h"
+#include "tennessine.h"
 
 extern hydrogen H;
 
@@ -165,5 +166,6 @@ extern nihonium Nh;
 extern flerovium Fl;
 extern moscovium Mc;
 extern livermorium Lv;
+extern tennessine Ts;
 
 #endif

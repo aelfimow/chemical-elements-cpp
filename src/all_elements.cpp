@@ -86,3 +86,4 @@ nihonium Nh;
 flerovium Fl;
 moscovium Mc;
 livermorium Lv;
+tennessine Ts;
