@@ -81,6 +81,8 @@
 #include "tennessine.h"
 #include "oganesson.h"
 
+#include "cobalt.h"
+
 extern hydrogen H;
 
 extern helium He;
@@ -169,5 +171,7 @@ extern moscovium Mc;
 extern livermorium Lv;
 extern tennessine Ts;
 extern oganesson Og;
+
+extern cobalt Co;
 
 #endif

@@ -88,3 +88,5 @@ moscovium Mc;
 livermorium Lv;
 tennessine Ts;
 oganesson Og;
+
+cobalt Co;
