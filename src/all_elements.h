@@ -82,6 +82,7 @@
 #include "oganesson.h"
 
 #include "cobalt.h"
+#include "nickel.h"
 
 extern hydrogen H;
 
@@ -173,5 +174,6 @@ extern tennessine Ts;
 extern oganesson Og;
 
 extern cobalt Co;
+extern nickel Ni;
 
 #endif

@@ -90,3 +90,4 @@ tennessine Ts;
 oganesson Og;
 
 cobalt Co;
+nickel Ni;
