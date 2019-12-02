@@ -83,6 +83,7 @@
 
 #include "cobalt.h"
 #include "nickel.h"
+#include "copper.h"
 
 extern hydrogen H;
 
@@ -175,5 +176,6 @@ extern oganesson Og;
 
 extern cobalt Co;
 extern nickel Ni;
+extern copper Cu;
 
 #endif

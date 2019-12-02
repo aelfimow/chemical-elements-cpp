@@ -91,3 +91,4 @@ oganesson Og;
 
 cobalt Co;
 nickel Ni;
+copper Cu;
