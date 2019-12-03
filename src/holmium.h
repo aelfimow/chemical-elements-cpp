@@ -6,8 +6,8 @@
 class holmium: public chemical_element
 {
     public:
-        holmium() { }
-        ~holmium() { }
+        holmium() = default;
+        ~holmium() = default;
 
         atomic_number_t atomic_number() const override
         {

@@ -7,8 +7,8 @@
 class tantalum: public chemical_element
 {
     public:
-        tantalum() { }
-        ~tantalum() { }
+        tantalum() = default;
+        ~tantalum() = default;
 
         atomic_number_t atomic_number() const override
         {

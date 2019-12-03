@@ -7,8 +7,8 @@
 class zirkonium: public chemical_element
 {
     public:
-        zirkonium() { }
-        ~zirkonium() { }
+        zirkonium() = default;
+        ~zirkonium() = default;
 
         atomic_number_t atomic_number() const override
         {

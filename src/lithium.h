@@ -7,8 +7,8 @@
 class lithium: public chemical_element
 {
     public:
-        lithium() { }
-        ~lithium() { }
+        lithium() = default;
+        ~lithium() = default;
 
         atomic_number_t atomic_number() const override
         {

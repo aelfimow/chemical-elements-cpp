@@ -6,8 +6,8 @@
 class terbium: public chemical_element
 {
     public:
-        terbium() { }
-        ~terbium() { }
+        terbium() = default;
+        ~terbium() = default;
 
         atomic_number_t atomic_number() const override
         {

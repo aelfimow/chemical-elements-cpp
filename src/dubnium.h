@@ -7,8 +7,8 @@
 class dubnium: public chemical_element
 {
     public:
-        dubnium() { }
-        ~dubnium() { }
+        dubnium() = default;
+        ~dubnium() = default;
 
         atomic_number_t atomic_number() const override
         {

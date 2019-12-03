@@ -17,8 +17,8 @@ using electron_config_t = std::string;
 class chemical_element
 {
     public:
-        chemical_element() { }
-        virtual ~chemical_element() { }
+        chemical_element() = default;
+        virtual ~chemical_element() = default;
 
         virtual atomic_number_t atomic_number() const = 0;
         virtual symbol_t symbol() const = 0;

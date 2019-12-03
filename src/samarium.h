@@ -6,8 +6,8 @@
 class samarium: public chemical_element
 {
     public:
-        samarium() { }
-        ~samarium() { }
+        samarium() = default;
+        ~samarium() = default;
 
         atomic_number_t atomic_number() const override
         {

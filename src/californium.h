@@ -7,8 +7,8 @@
 class californium: public chemical_element
 {
     public:
-        californium() { }
-        ~californium() { }
+        californium() = default;
+        ~californium() = default;
 
         atomic_number_t atomic_number() const override
         {

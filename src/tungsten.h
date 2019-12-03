@@ -7,8 +7,8 @@
 class tungsten: public chemical_element
 {
     public:
-        tungsten() { }
-        ~tungsten() { }
+        tungsten() = default;
+        ~tungsten() = default;
 
         atomic_number_t atomic_number() const override
         {

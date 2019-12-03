@@ -7,8 +7,8 @@
 class niobium: public chemical_element
 {
     public:
-        niobium() { }
-        ~niobium() { }
+        niobium() = default;
+        ~niobium() = default;
 
         atomic_number_t atomic_number() const override
         {

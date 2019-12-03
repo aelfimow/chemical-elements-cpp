@@ -7,8 +7,8 @@
 class nobelium: public chemical_element
 {
     public:
-        nobelium() { }
-        ~nobelium() { }
+        nobelium() = default;
+        ~nobelium() = default;
 
         atomic_number_t atomic_number() const override
         {

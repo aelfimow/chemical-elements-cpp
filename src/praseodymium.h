@@ -6,8 +6,8 @@
 class praseodymium: public chemical_element
 {
     public:
-        praseodymium() { }
-        ~praseodymium() { }
+        praseodymium() = default;
+        ~praseodymium() = default;
 
         atomic_number_t atomic_number() const override
         {

@@ -6,8 +6,8 @@
 class europium: public chemical_element
 {
     public:
-        europium() { }
-        ~europium() { }
+        europium() = default;
+        ~europium() = default;
 
         atomic_number_t atomic_number() const override
         {

@@ -7,8 +7,8 @@
 class barium: public chemical_element
 {
     public:
-        barium() { }
-        ~barium() { }
+        barium() = default;
+        ~barium() = default;
 
         atomic_number_t atomic_number() const override
         {

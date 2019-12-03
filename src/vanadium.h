@@ -7,8 +7,8 @@
 class vanadium: public chemical_element
 {
     public:
-        vanadium() { }
-        ~vanadium() { }
+        vanadium() = default;
+        ~vanadium() = default;
 
         atomic_number_t atomic_number() const override
         {

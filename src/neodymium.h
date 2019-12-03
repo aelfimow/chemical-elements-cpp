@@ -6,8 +6,8 @@
 class neodymium: public chemical_element
 {
     public:
-        neodymium() { }
-        ~neodymium() { }
+        neodymium() = default;
+        ~neodymium() = default;
 
         atomic_number_t atomic_number() const override
         {

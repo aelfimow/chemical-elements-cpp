@@ -7,8 +7,8 @@
 class rubidium: public chemical_element
 {
     public:
-        rubidium() { }
-        ~rubidium() { }
+        rubidium() = default;
+        ~rubidium() = default;
 
         atomic_number_t atomic_number() const override
         {

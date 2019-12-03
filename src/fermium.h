@@ -7,8 +7,8 @@
 class fermium: public chemical_element
 {
     public:
-        fermium() { }
-        ~fermium() { }
+        fermium() = default;
+        ~fermium() = default;
 
         atomic_number_t atomic_number() const override
         {

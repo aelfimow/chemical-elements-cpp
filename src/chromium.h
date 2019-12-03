@@ -7,8 +7,8 @@
 class chromium: public chemical_element
 {
     public:
-        chromium() { }
-        ~chromium() { }
+        chromium() = default;
+        ~chromium() = default;
 
         atomic_number_t atomic_number() const override
         {

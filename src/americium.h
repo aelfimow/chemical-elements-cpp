@@ -7,8 +7,8 @@
 class americium: public chemical_element
 {
     public:
-        americium() { }
-        ~americium() { }
+        americium() = default;
+        ~americium() = default;
 
         atomic_number_t atomic_number() const override
         {

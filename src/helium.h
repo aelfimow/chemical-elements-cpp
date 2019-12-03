@@ -7,8 +7,8 @@
 class helium: public chemical_element
 {
     public:
-        helium() { }
-        ~helium() { }
+        helium() = default;
+        ~helium() = default;
 
         atomic_number_t atomic_number() const override
         {

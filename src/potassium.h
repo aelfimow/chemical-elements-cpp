@@ -7,8 +7,8 @@
 class potassium: public chemical_element
 {
     public:
-        potassium() { }
-        ~potassium() { }
+        potassium() = default;
+        ~potassium() = default;
 
         atomic_number_t atomic_number() const override
         {

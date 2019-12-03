@@ -7,8 +7,8 @@
 class molybdenum: public chemical_element
 {
     public:
-        molybdenum() { }
-        ~molybdenum() { }
+        molybdenum() = default;
+        ~molybdenum() = default;
 
         atomic_number_t atomic_number() const override
         {

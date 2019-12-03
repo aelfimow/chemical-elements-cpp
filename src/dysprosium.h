@@ -6,8 +6,8 @@
 class dysprosium: public chemical_element
 {
     public:
-        dysprosium() { }
-        ~dysprosium() { }
+        dysprosium() = default;
+        ~dysprosium() = default;
 
         atomic_number_t atomic_number() const override
         {

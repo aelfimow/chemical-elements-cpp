@@ -7,8 +7,8 @@
 class hydrogen: public chemical_element
 {
     public:
-        hydrogen() { }
-        ~hydrogen() { }
+        hydrogen() = default;
+        ~hydrogen() = default;
 
         atomic_number_t atomic_number() const override
         {

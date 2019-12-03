@@ -6,8 +6,8 @@
 class ytterbium: public chemical_element
 {
     public:
-        ytterbium() { }
-        ~ytterbium() { }
+        ytterbium() = default;
+        ~ytterbium() = default;
 
         atomic_number_t atomic_number() const override
         {

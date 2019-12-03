@@ -6,8 +6,8 @@
 class gadolinium: public chemical_element
 {
     public:
-        gadolinium() { }
-        ~gadolinium() { }
+        gadolinium() = default;
+        ~gadolinium() = default;
 
         atomic_number_t atomic_number() const override
         {

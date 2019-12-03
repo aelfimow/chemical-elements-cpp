@@ -7,8 +7,8 @@
 class scandium: public chemical_element
 {
     public:
-        scandium() { }
-        ~scandium() { }
+        scandium() = default;
+        ~scandium() = default;
 
         atomic_number_t atomic_number() const override
         {

@@ -7,8 +7,8 @@
 class titanium: public chemical_element
 {
     public:
-        titanium() { }
-        ~titanium() { }
+        titanium() = default;
+        ~titanium() = default;
 
         atomic_number_t atomic_number() const override
         {

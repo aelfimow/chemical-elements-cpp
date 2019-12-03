@@ -7,8 +7,8 @@
 class yttrium: public chemical_element
 {
     public:
-        yttrium() { }
-        ~yttrium() { }
+        yttrium() = default;
+        ~yttrium() = default;
 
         atomic_number_t atomic_number() const override
         {

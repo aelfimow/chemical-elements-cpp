@@ -6,8 +6,8 @@
 class lutetium: public chemical_element
 {
     public:
-        lutetium() { }
-        ~lutetium() { }
+        lutetium() = default;
+        ~lutetium() = default;
 
         atomic_number_t atomic_number() const override
         {

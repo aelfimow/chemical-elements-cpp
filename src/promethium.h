@@ -6,8 +6,8 @@
 class promethium: public chemical_element
 {
     public:
-        promethium() { }
-        ~promethium() { }
+        promethium() = default;
+        ~promethium() = default;
 
         atomic_number_t atomic_number() const override
         {

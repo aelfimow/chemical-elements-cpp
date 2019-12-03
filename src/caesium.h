@@ -7,8 +7,8 @@
 class caesium: public chemical_element
 {
     public:
-        caesium() { }
-        ~caesium() { }
+        caesium() = default;
+        ~caesium() = default;
 
         atomic_number_t atomic_number() const override
         {

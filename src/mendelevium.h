@@ -7,8 +7,8 @@
 class mendelevium: public chemical_element
 {
     public:
-        mendelevium() { }
-        ~mendelevium() { }
+        mendelevium() = default;
+        ~mendelevium() = default;
 
         atomic_number_t atomic_number() const override
         {

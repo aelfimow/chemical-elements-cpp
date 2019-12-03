@@ -7,8 +7,8 @@
 class sodium: public chemical_element
 {
     public:
-        sodium() { }
-        ~sodium() { }
+        sodium() = default;
+        ~sodium() = default;
 
         atomic_number_t atomic_number() const override
         {

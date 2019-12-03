@@ -7,8 +7,8 @@
 class curium: public chemical_element
 {
     public:
-        curium() { }
-        ~curium() { }
+        curium() = default;
+        ~curium() = default;
 
         atomic_number_t atomic_number() const override
         {

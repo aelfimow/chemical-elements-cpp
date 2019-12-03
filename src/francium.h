@@ -7,8 +7,8 @@
 class francium: public chemical_element
 {
     public:
-        francium() { }
-        ~francium() { }
+        francium() = default;
+        ~francium() = default;
 
         atomic_number_t atomic_number() const override
         {

@@ -7,8 +7,8 @@
 class seaborgium: public chemical_element
 {
     public:
-        seaborgium() { }
-        ~seaborgium() { }
+        seaborgium() = default;
+        ~seaborgium() = default;
 
         atomic_number_t atomic_number() const override
         {
