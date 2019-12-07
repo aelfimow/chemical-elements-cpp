@@ -94,3 +94,4 @@ nickel Ni;
 copper Cu;
 zinc Zn;
 gallium Ga;
+germanium Ge;
