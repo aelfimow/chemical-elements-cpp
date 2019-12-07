@@ -85,6 +85,7 @@
 #include "nickel.h"
 #include "copper.h"
 #include "zinc.h"
+#include "gallium.h"
 
 extern hydrogen H;
 
@@ -179,5 +180,6 @@ extern cobalt Co;
 extern nickel Ni;
 extern copper Cu;
 extern zinc Zn;
+extern gallium Ga;
 
 #endif

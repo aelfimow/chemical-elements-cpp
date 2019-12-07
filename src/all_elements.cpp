@@ -93,3 +93,4 @@ cobalt Co;
 nickel Ni;
 copper Cu;
 zinc Zn;
+gallium Ga;
