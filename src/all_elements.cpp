@@ -95,3 +95,4 @@ copper Cu;
 zinc Zn;
 gallium Ga;
 germanium Ge;
+arsenic As;
