@@ -88,6 +88,7 @@
 #include "gallium.h"
 #include "germanium.h"
 #include "arsenic.h"
+#include "selenium.h"
 
 extern hydrogen H;
 
@@ -185,5 +186,6 @@ extern zinc Zn;
 extern gallium Ga;
 extern germanium Ge;
 extern arsenic As;
+extern selenium Se;
 
 #endif
