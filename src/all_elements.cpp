@@ -97,3 +97,4 @@ gallium Ga;
 germanium Ge;
 arsenic As;
 selenium Se;
+bromine Br;
