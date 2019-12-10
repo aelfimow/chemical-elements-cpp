@@ -95,6 +95,7 @@
 #include "argon.h"
 #include "krypton.h"
 #include "xenon.h"
+#include "radon.h"
 
 extern hydrogen H;
 
@@ -198,5 +199,6 @@ extern neon Ne;
 extern krypton Kr;
 extern argon Ar;
 extern xenon Xe;
+extern radon Rn;
 
 #endif
