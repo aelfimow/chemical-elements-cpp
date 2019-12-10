@@ -1,33 +1,33 @@
-#ifdef HELIUM_H
+#ifdef NEON_H
 #error Already included
 #else
-#define HELIUM_H
+#define NEON_H
 
 
-class helium: public chemical_element
+class neon: public chemical_element
 {
     public:
-        helium() = default;
-        ~helium() = default;
+        neon() = default;
+        ~neon() = default;
 
         atomic_number_t atomic_number() const override
         {
-            return 2;
+            return 10;
         }
 
         symbol_t symbol() const override
         {
-            return "He";
+            return "Ne";
         }
 
         name_t name() const override
         {
-            return "helium";
+            return "neon";
         }
 
         atomic_mass_t atomic_weight() const override
         {
-            return 4.002602;
+            return 20.1797;
         }
 
         state_t state() const override
@@ -47,7 +47,7 @@ class helium: public chemical_element
 
         electron_config_t electron_config() const override
         {
-            return "1s^2";
+            return "[He] 2s^2 2p^6";
         }
 };
 

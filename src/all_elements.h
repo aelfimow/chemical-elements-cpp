@@ -90,6 +90,8 @@
 #include "arsenic.h"
 #include "selenium.h"
 #include "bromine.h"
+
+#include "neon.h"
 #include "krypton.h"
 
 extern hydrogen H;
@@ -190,6 +192,8 @@ extern germanium Ge;
 extern arsenic As;
 extern selenium Se;
 extern bromine Br;
+
+extern neon Ne;
 extern krypton Kr;
 
 #endif

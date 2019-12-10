@@ -98,4 +98,6 @@ germanium Ge;
 arsenic As;
 selenium Se;
 bromine Br;
+
+neon Ne;
 krypton Kr;
