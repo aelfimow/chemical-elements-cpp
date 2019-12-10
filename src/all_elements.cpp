@@ -2,8 +2,6 @@
 
 hydrogen H;
 
-helium He;
-
 lithium Li;
 sodium Na;
 potassium K;
@@ -99,5 +97,7 @@ arsenic As;
 selenium Se;
 bromine Br;
 
+helium He;
 neon Ne;
+argon Ar;
 krypton Kr;

@@ -92,11 +92,10 @@
 #include "bromine.h"
 
 #include "neon.h"
+#include "argon.h"
 #include "krypton.h"
 
 extern hydrogen H;
-
-extern helium He;
 
 extern lithium Li;
 extern sodium Na;
@@ -193,7 +192,9 @@ extern arsenic As;
 extern selenium Se;
 extern bromine Br;
 
+extern helium He;
 extern neon Ne;
 extern krypton Kr;
+extern argon Ar;
 
 #endif
