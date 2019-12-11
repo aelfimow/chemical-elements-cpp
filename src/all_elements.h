@@ -97,6 +97,8 @@
 #include "xenon.h"
 #include "radon.h"
 
+#include "fluorine.h"
+
 extern hydrogen H;
 
 extern lithium Li;
@@ -200,5 +202,7 @@ extern krypton Kr;
 extern argon Ar;
 extern xenon Xe;
 extern radon Rn;
+
+extern fluorine F;
 
 #endif

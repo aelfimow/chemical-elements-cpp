@@ -103,3 +103,5 @@ argon Ar;
 krypton Kr;
 xenon Xe;
 radon Rn;
+
+fluorine F;
