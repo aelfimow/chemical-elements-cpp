@@ -106,3 +106,4 @@ radon Rn;
 
 fluorine F;
 chlorine Cl;
+iodine I;
