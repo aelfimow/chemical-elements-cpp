@@ -98,6 +98,7 @@
 #include "radon.h"
 
 #include "fluorine.h"
+#include "chlorine.h"
 
 extern hydrogen H;
 
@@ -204,5 +205,6 @@ extern xenon Xe;
 extern radon Rn;
 
 extern fluorine F;
+extern chlorine Cl;
 
 #endif

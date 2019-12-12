@@ -105,3 +105,4 @@ xenon Xe;
 radon Rn;
 
 fluorine F;
+chlorine Cl;
