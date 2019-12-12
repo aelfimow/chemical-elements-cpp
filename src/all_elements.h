@@ -100,6 +100,7 @@
 #include "fluorine.h"
 #include "chlorine.h"
 #include "iodine.h"
+#include "astatine.h"
 
 extern hydrogen H;
 
@@ -208,5 +209,6 @@ extern radon Rn;
 extern fluorine F;
 extern chlorine Cl;
 extern iodine I;
+extern astatine At;
 
 #endif
