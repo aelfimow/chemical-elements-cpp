@@ -42,7 +42,7 @@ class bromine: public chemical_element
 
         group_t group() const override
         {
-            return "17";
+            return "17: halogens";
         }
 
         electron_config_t electron_config() const override
