@@ -102,6 +102,8 @@
 #include "iodine.h"
 #include "astatine.h"
 
+#include "oxygen.h"
+
 extern hydrogen H;
 
 extern lithium Li;
@@ -210,5 +212,7 @@ extern fluorine F;
 extern chlorine Cl;
 extern iodine I;
 extern astatine At;
+
+extern oxygen O;
 
 #endif

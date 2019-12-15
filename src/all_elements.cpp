@@ -108,3 +108,5 @@ fluorine F;
 chlorine Cl;
 iodine I;
 astatine At;
+
+oxygen O;
