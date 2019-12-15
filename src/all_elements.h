@@ -103,6 +103,7 @@
 #include "astatine.h"
 
 #include "oxygen.h"
+#include "sulfur.h"
 
 extern hydrogen H;
 
@@ -214,5 +215,6 @@ extern iodine I;
 extern astatine At;
 
 extern oxygen O;
+extern sulfur S;
 
 #endif

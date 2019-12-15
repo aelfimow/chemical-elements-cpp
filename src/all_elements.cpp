@@ -110,3 +110,4 @@ iodine I;
 astatine At;
 
 oxygen O;
+sulfur S;
