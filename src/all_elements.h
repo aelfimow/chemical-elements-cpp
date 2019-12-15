@@ -104,6 +104,7 @@
 
 #include "oxygen.h"
 #include "sulfur.h"
+#include "tellurium.h"
 
 extern hydrogen H;
 
@@ -216,5 +217,6 @@ extern astatine At;
 
 extern oxygen O;
 extern sulfur S;
+extern tellurium Te;
 
 #endif
