@@ -117,3 +117,4 @@ polonium Po;
 nitrogen N;
 phosphorus P;
 antimoney Sb;
+bismuth Bi;
