@@ -108,6 +108,7 @@
 #include "polonium.h"
 
 #include "nitrogen.h"
+#include "phosphorus.h"
 
 extern hydrogen H;
 
@@ -224,5 +225,6 @@ extern tellurium Te;
 extern polonium Po;
 
 extern nitrogen N;
+extern phosphorus P;
 
 #endif

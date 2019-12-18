@@ -115,3 +115,4 @@ tellurium Te;
 polonium Po;
 
 nitrogen N;
+phosphorus P;
