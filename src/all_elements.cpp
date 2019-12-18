@@ -116,3 +116,4 @@ polonium Po;
 
 nitrogen N;
 phosphorus P;
+antimoney Sb;

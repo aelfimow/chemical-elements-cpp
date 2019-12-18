@@ -109,6 +109,7 @@
 
 #include "nitrogen.h"
 #include "phosphorus.h"
+#include "antimoney.h"
 
 extern hydrogen H;
 
@@ -226,5 +227,6 @@ extern polonium Po;
 
 extern nitrogen N;
 extern phosphorus P;
+extern antimoney Sb;
 
 #endif
