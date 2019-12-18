@@ -107,6 +107,8 @@
 #include "tellurium.h"
 #include "polonium.h"
 
+#include "nitrogen.h"
+
 extern hydrogen H;
 
 extern lithium Li;
@@ -220,5 +222,7 @@ extern oxygen O;
 extern sulfur S;
 extern tellurium Te;
 extern polonium Po;
+
+extern nitrogen N;
 
 #endif
