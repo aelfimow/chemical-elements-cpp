@@ -115,6 +115,7 @@
 #include "carbon.h"
 #include "silicon.h"
 #include "tin.h"
+#include "lead.h"
 
 extern hydrogen H;
 
@@ -238,5 +239,6 @@ extern bismuth Bi;
 extern carbon C;
 extern silicon Si;
 extern tin Sn;
+extern lead Pb;
 
 #endif
