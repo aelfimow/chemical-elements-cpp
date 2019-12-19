@@ -112,6 +112,8 @@
 #include "antimoney.h"
 #include "bismuth.h"
 
+#include "carbon.h"
+
 extern hydrogen H;
 
 extern lithium Li;
@@ -230,5 +232,7 @@ extern nitrogen N;
 extern phosphorus P;
 extern antimoney Sb;
 extern bismuth Bi;
+
+extern carbon C;
 
 #endif
