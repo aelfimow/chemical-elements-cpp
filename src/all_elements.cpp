@@ -120,3 +120,4 @@ antimoney Sb;
 bismuth Bi;
 
 carbon C;
+silicon Si;

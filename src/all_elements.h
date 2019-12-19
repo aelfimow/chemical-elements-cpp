@@ -113,6 +113,7 @@
 #include "bismuth.h"
 
 #include "carbon.h"
+#include "silicon.h"
 
 extern hydrogen H;
 
@@ -234,5 +235,6 @@ extern antimoney Sb;
 extern bismuth Bi;
 
 extern carbon C;
+extern silicon Si;
 
 #endif
