@@ -117,6 +117,8 @@
 #include "tin.h"
 #include "lead.h"
 
+#include "boron.h"
+
 extern hydrogen H;
 
 extern lithium Li;
@@ -240,5 +242,7 @@ extern carbon C;
 extern silicon Si;
 extern tin Sn;
 extern lead Pb;
+
+extern boron B;
 
 #endif
