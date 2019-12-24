@@ -118,6 +118,7 @@
 #include "lead.h"
 
 #include "boron.h"
+#include "aluminium.h"
 
 extern hydrogen H;
 
@@ -244,5 +245,6 @@ extern tin Sn;
 extern lead Pb;
 
 extern boron B;
+extern aluminium Al;
 
 #endif
