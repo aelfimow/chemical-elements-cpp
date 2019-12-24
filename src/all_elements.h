@@ -119,6 +119,7 @@
 
 #include "boron.h"
 #include "aluminium.h"
+#include "indium.h"
 
 extern hydrogen H;
 
@@ -246,5 +247,6 @@ extern lead Pb;
 
 extern boron B;
 extern aluminium Al;
+extern indium In;
 
 #endif
